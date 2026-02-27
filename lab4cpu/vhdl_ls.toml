@@ -1,0 +1,16 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'alu.vhd',
+	'lab4cpu.vhd',
+	'next_address.vhd',
+	'regfile.vhd'
+]
+[libraries.work]
+files = [
+	'alu.vhd',
+	'lab4cpu.vhd',
+	'next_address.vhd',
+	'regfile.vhd'
+]
+# auto-generated-end

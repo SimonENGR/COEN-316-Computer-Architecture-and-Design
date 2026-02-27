@@ -1,0 +1,13 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="alu.vhd" />
+    <File Include="lab4.do" />
+    <File Include="lab4cpu.do" />
+    <File Include="lab4cpu.vhd" />
+    <File Include="next_address.vhd" />
+    <File Include="regfile.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>lab4cpu.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

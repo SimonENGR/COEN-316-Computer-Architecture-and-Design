@@ -1,0 +1,191 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/simon/VHDPlus/Projects/lab4cpu/Generated
+Ealu
+Z1 w1744126129
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:\Users\simon\VHDPlus\Projects\lab4cpu\alu.vhd
+Z7 FC:\Users\simon\VHDPlus\Projects\lab4cpu\alu.vhd
+l0
+L5
+VOPdGWzCSg^D]D[SWJj4FA0
+!s100 ^SKZ0=7F_LDEQJ=a;Xa?^1
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1744126129
+!i10b 1
+Z10 !s108 1744126129.000000
+Z11 !s90 -work|work|-check_synthesis|C:\Users\simon\VHDPlus\Projects\lab4cpu\alu.vhd|
+Z12 !s107 C:\Users\simon\VHDPlus\Projects\lab4cpu\alu.vhd|
+!i113 1
+Z13 o-work work -check_synthesis
+Z14 tExplicit 1 CvgOpt 0
+Aarch_alu
+R2
+R3
+R4
+R5
+Z15 DEx4 work 3 alu 0 22 OPdGWzCSg^D]D[SWJj4FA0
+l23
+L15
+VDc2XeLPOj:X=BU[1l;OSl2
+!s100 ;:TYLbVGlaSmTSl=H?T[<0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Edatapath
+R1
+Z16 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R4
+R5
+R0
+Z17 8C:\Users\simon\VHDPlus\Projects\lab4cpu\lab4cpu.vhd
+Z18 FC:\Users\simon\VHDPlus\Projects\lab4cpu\lab4cpu.vhd
+l0
+L6
+VMXGIC_Hd;=ROd]iYzMg2d0
+!s100 HV;TW78CG@6Zo1iBI<URC3
+R8
+32
+Z19 !s110 1744126130
+!i10b 1
+Z20 !s108 1744126130.000000
+Z21 !s90 -work|work|-check_synthesis|C:\Users\simon\VHDPlus\Projects\lab4cpu\lab4cpu.vhd|
+Z22 !s107 C:\Users\simon\VHDPlus\Projects\lab4cpu\lab4cpu.vhd|
+!i113 1
+R13
+R14
+Aarch_datapath
+Z23 DEx4 work 12 next_address 0 22 ZiY]L06OBWo5H^HhE`lk:2
+R15
+Z24 DEx4 work 7 regfile 0 22 3VoDAMmT=R1dlolm_4i]M0
+R16
+R2
+R3
+R4
+R5
+Z25 DEx4 work 8 datapath 0 22 MXGIC_Hd;=ROd]iYzMg2d0
+l73
+L19
+Z26 V1d8gAcKobzNn=KBzoVC=h3
+Z27 !s100 hfm=C0nNH6h<T=O52C00d2
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Enext_address
+R1
+R16
+R2
+R3
+R4
+R5
+R0
+Z28 8C:\Users\simon\VHDPlus\Projects\lab4cpu\next_address.vhd
+Z29 FC:\Users\simon\VHDPlus\Projects\lab4cpu\next_address.vhd
+l0
+L6
+VZiY]L06OBWo5H^HhE`lk:2
+!s100 QUC;8IDjGiM73[Sb^3fWo3
+R8
+32
+R9
+!i10b 1
+R10
+Z30 !s90 -work|work|-check_synthesis|C:\Users\simon\VHDPlus\Projects\lab4cpu\next_address.vhd|
+Z31 !s107 C:\Users\simon\VHDPlus\Projects\lab4cpu\next_address.vhd|
+!i113 1
+R13
+R14
+Aarch_next_address
+R16
+R2
+R3
+R4
+R5
+R23
+l32
+L18
+VU?>L;3GgIMWJQj8TlXa3l3
+!s100 7goHAji>aRglX44EFln@H2
+R8
+32
+R9
+!i10b 1
+R10
+R30
+R31
+!i113 1
+R13
+R14
+Eregfile
+R1
+R16
+R2
+R3
+R4
+R5
+R0
+Z32 8C:\Users\simon\VHDPlus\Projects\lab4cpu\regfile.vhd
+Z33 FC:\Users\simon\VHDPlus\Projects\lab4cpu\regfile.vhd
+l0
+L8
+V3VoDAMmT=R1dlolm_4i]M0
+!s100 43PQzQ:`lk=]WT[^VlbZI3
+R8
+32
+R9
+!i10b 1
+R10
+Z34 !s90 -work|work|-check_synthesis|C:\Users\simon\VHDPlus\Projects\lab4cpu\regfile.vhd|
+Z35 !s107 C:\Users\simon\VHDPlus\Projects\lab4cpu\regfile.vhd|
+!i113 1
+R13
+R14
+Aarch_reg
+R16
+R2
+R3
+R4
+R5
+R24
+l26
+L22
+VbPo37zX=VXNVhheLllBfi2
+!s100 mhC<F6N3[W6Ej@`k^FVdg3
+R8
+32
+R9
+!i10b 1
+R10
+R34
+R35
+!i113 1
+R13
+R14
